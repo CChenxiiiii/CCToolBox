@@ -11,6 +11,6 @@ A useful Hackintosh toolbox written by a normal middle school student. I'm actic
 ---
 
 ### Noteworthy features of CCToolBox:  
-* Support macOS Monterey, Ventura, Sonoma, Sequoia, Tahoe  
+* Support macOS Ventura, Sonoma, Sequoia, Tahoe  
 * Useful toolkits all-in-one  
 * Support Simplified Chinese(zh-cn), English(en) edition is developing  
