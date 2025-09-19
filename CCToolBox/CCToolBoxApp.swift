@@ -13,5 +13,17 @@ struct CCToolBoxApp: App {
         WindowGroup {
             ContentView()
         }
+        WindowGroup(id: "FixSleep"){
+            FixSleep()
+        }
+        WindowGroup(id: "MountEFI"){
+            MountEFI()
+        }
+        WindowGroup(id: "WithOutHeliPort"){
+            WithoutHeliPort()
+        }
+        WindowGroup(id: "CPUFTool"){
+            CPUFTool()
+        }
     }
 }
