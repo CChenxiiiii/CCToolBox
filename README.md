@@ -13,4 +13,13 @@ A useful Hackintosh toolbox written by a normal middle school student. I'm actic
 ### Noteworthy features of CCToolBox:  
 * Support macOS Ventura, Sonoma, Sequoia, Tahoe  
 * Useful toolkits all-in-one  
-* Support Simplified Chinese(zh-cn), English(en) edition is developing  
+* Support Simplified Chinese(zh-cn), English(en) edition is developing
+
+<br>
+
+### Toolkits now supported:
+1. General Hakcintosh sleeping fixing up
+2. Onekey itlwm editor
+3. Intel CPU turbo onekey fixing up
+4. Simple EFI mounter
+
