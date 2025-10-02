@@ -1,25 +1,37 @@
-<div align = center>
-  <img width="256" height="256" alt="OpenCore-Toolkits-macOS-Default-128x128@2x" src="https://github.com/user-attachments/assets/3b1fa7da-a64a-4685-8411-c12deab75577" />
-  <h1>CCToolBox</h1>
-  <a href="README_CN.md">中文版README</a>
-</div>
-<br>
-<br>
+### English README
 
-A useful Hackintosh toolbox written by a normal middle school student. I'm acticely maintaining this toolbox. If you need more features, you can provide feedback through GitHub Issues.
+<div align="center">
+  <img width="256" height="256" alt="CCToolBox Logo" src="https://github.com/user-attachments/assets/3b1fa7da-a64a-4685-8411-c12deab75577" />
+  <h1>CCToolBox</h1>
+  <a href="README_CN.md">Chinese Version</a>
+</div>
 
 ---
 
-### Noteworthy features of CCToolBox:  
-* Support macOS Ventura, Sonoma, Sequoia, Tahoe  
-* Useful toolkits all-in-one  
-* Support Simplified Chinese(zh-cn), English(en) edition is developing
+A versatile Hackintosh utility toolkit developed by a middle school student. The project is actively maintained, and we welcome feature requests via GitHub Issues.
 
-<br>
+### Key Features
+- Supports macOS Ventura, Sonoma, Sequoia, and Tahoe
+- All-in-one collection of essential Hackintosh tools
+- Available in Simplified Chinese (zh-cn); English version is under development
 
-### Toolkits now supported:
-1. General Hakcintosh sleeping fixing up
-2. Onekey itlwm editor
-3. Intel CPU turbo onekey fixing up
-4. Simple EFI mounter
+### Supported Tools
+1. **General Sleep Fix**  
+   Simplifies sleep-related issues on Hackintosh systems (may require minor adjustments for specific models).
+
+2. **One-Click itlwm Editor**  
+   Automates configuration for itlwm kext, eliminating the need for HeliPort.
+
+3. **Intel CPU Turbo Boost Fix**  
+   Resolves turbo frequency anomalies for Intel CPUs (Haswell and newer generations).
+
+4. **Simple EFI Mounter**  
+   Easily mounts EFI partitions (defaults to diskXs1).
+
+### License
+CCToolBox is released under the [GNU General Public License v3.0](LICENSE).
+
+### Feedback
+For bug reports or feature suggestions, please submit via [GitHub Issues](https://github.com/CChenxiiiii/CCToolBox/issues).
+
 
